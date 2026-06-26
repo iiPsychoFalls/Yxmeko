@@ -5017,7 +5017,7 @@
 
         .popoutTopLeft-3B0mFf.noArrow-2foL9g[style*="height: 80px;"] { height: 100px !important; }
 
-        #status-picker .item-1OdjEX:not(:nth-child(7)) .status_e0f739 { color: transparent; }
+        #status-picker .item-1OdjEX:not(:nth-child(7)) .status_e0f739 { color: inherit; }
 
         #status-picker .item-1OdjEX .description_e0f739,
 
