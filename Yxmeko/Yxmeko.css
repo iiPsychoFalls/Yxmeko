@@ -5129,8 +5129,8 @@
             background-size: 100% 100%;
             background-repeat: no-repeat;
             background-position: center;
-            opacity: 0;
-            visibility: hidden;
+            opacity: 1;
+            visibility: visible;
             transition: all 200ms ease-in-out;
         }
 
