@@ -5796,3 +5796,22 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
     -webkit-mask-repeat: no-repeat !important;
     -webkit-mask-position: center !important;
 }
+
+#app-mount .circleIconButton__5bc7e,
+#app-mount .circleIconButton__5bc7e:hover,
+#app-mount .circleIconButton__5bc7e:focus-visible,
+#app-mount .circleIconButton__5bc7e:active {
+    background-image: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    border-color: transparent !important;
+}
+
+#app-mount .circleIconButton__5bc7e { background-color: var(--mc) !important; }
+
+#app-mount .circleIconButton__5bc7e:hover,
+#app-mount .circleIconButton__5bc7e:focus-visible,
+#app-mount .circleIconButton__5bc7e:active { background-color: var(--hc) !important; }
+
+#app-mount .circleIconButton__5bc7e .circleIcon__5bc7e { color: var(--hc) !important; }
+#app-mount .circleIconButton__5bc7e:hover .circleIcon__5bc7e { color: #fff !important; }
