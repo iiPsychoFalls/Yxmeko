@@ -4873,7 +4873,7 @@
 
         button.button__67645, span.button__67645 { color:var(--mc); }
 
-        .lottieIcon__5eb9b :not(defs *)[fill][fill-opacity] { fill: var(--mc); }
+        .lottieIcon__5eb9b :not(defs *)[stroke] { stroke: var(--mc) !important; }
 
         .grid__623de { border-radius: 5px; }
 
