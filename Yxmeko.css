@@ -5796,15 +5796,3 @@ div:is(.sidebarOpen_cb9592, .threadSidebarOpen_f75fb0) .toolbar__9293f {margin-r
     -webkit-mask-repeat: no-repeat !important;
     -webkit-mask-position: center !important;
 }
-
-.circleIconButton__5bc7e.discoveryIcon_ef3116:hover,
-.circleIconButton__5bc7e.discoveryIcon_ef3116:focus-visible {
-    background-color: var(--hc) !important;
-    color: #fff !important;
-}
-
-.circleIconButton__5bc7e.discoveryIcon_ef3116:hover .circleIcon__5bc7e path {
-    fill: #fff !important;
-}
-
-.circleIconButton__5bc7e:hover .circleIcon__5b
