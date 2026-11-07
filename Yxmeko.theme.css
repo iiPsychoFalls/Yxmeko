@@ -1,15 +1,15 @@
-@import url("https://raw.githubusercontent.com/iiPsychoFalls/Yxmeko/refs/heads/main/Yxmeko.css");
+@import url("https://raw.githubusercontent.com/iiPsychoFalls/Drxgon/refs/heads/main/Drxgon.css");
 
 
 :root { 
-  --theme-name: "Yxmeko";
-    --theme-letter: "Y";
+  --theme-name: "Drxgon";
+    --theme-letter: "D";
     /*--version-content: "1.0";*/
-    --mc: #A80000;
-    --hc: #8B0000;
+    --mc: #ffbfe6;
+    --hc: #ffabde;
     --RB: rgba(0,0,0,0.35); 
     --RBT: rgba(0,0,0,0.65); 
-    --BG: url("https://images6.alphacoders.com/860/thumb-1920-860275.png");
+    --BG: url("https://images7.alphacoders.com/113/thumb-1920-1136427.jpg");
     --BR: 50%;
     --quaternary-color:var(--RB)!important;
     --blur: blur(0px);
