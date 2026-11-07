@@ -43,8 +43,8 @@
 }
         :root {
             --version-content: "1";
-            --theme-name: "Yxmeko";
-            --theme-letter: "Y";
+            --theme-name: "Drxgon";
+            --theme-letter: "D";
             --QT: #121212;
             --QTD:#101010;
             --mc: #8d2036;
@@ -1504,7 +1504,7 @@
 
         .need-help-modal.form.deprecated .form-inner.loading .spinner { display:none!important; }
 
-        .empty-placeholder .image[style*='background-image:url("/assets/6793e022dc1b065b21f12d6df02f91bd.svg");'] { background-image:url(https://raw.githubusercontent.com/iiPsychoFalls/Yxmeko/refs/heads/main/ic_mic_white_24px.svg)!important; opacity:0.3; }
+        .empty-placeholder .image[style*='background-image:url("/assets/6793e022dc1b065b21f12d6df02f91bd.svg");'] { background-image:url(https://raw.githubusercontent.com/iiPsychoFalls/Drxgon/refs/heads/main/ic_mic_white_24px.svg)!important; opacity:0.3; }
 
         .radio .radio-inner input[type=radio]:checked+span:after { -webkit-transform:scale(0); transform:scale(0); -webkit-transition-delay:50ms; transition-delay:50ms; }
 
@@ -3492,7 +3492,7 @@
 
         .barInner_c8b06d { background-color: hsla(0,0%,0%,0.4); }
 
-        .topSectionSpotify-1lI0-P,.topSectionNormal-2-vo2m,.topSectionPlaying-1J5E4n { background: var(--QT); background-image: url(https://raw.githubusercontent.com/iiPsychoFalls/Yxmeko/refs/heads/main/bg.svg); background-size: 10em; box-shadow: inset 230px -130px 230px 10px var(--QT); }
+        .topSectionSpotify-1lI0-P,.topSectionNormal-2-vo2m,.topSectionPlaying-1J5E4n { background: var(--QT); background-image: url(https://raw.githubusercontent.com/iiPsychoFalls/Drxgon/refs/heads/main/bg.svg); background-size: 10em; box-shadow: inset 230px -130px 230px 10px var(--QT); }
 
         .topSectionNormal-2-vo2m { box-shadow: inset 230px -70px 230px 10px var(--QT) !important; }
 
@@ -3736,7 +3736,7 @@
             width: 40px !important;
             color: var(--hc);
             background-color: var(--hc);
-            -webkit-mask: url(https://raw.githubusercontent.com/iiPsychoFalls/Yxmeko/refs/heads/main/chatIcon.svg) !important;
+            -webkit-mask: url(https://raw.githubusercontent.com/iiPsychoFalls/Drxgon/refs/heads/main/chatIcon.svg) !important;
             -webkit-mask-size: 100% !important;
             -webkit-mask-repeat: no-repeat !important;
             -webkit-mask-position: center !important;
