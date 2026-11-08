@@ -11,7 +11,9 @@
 
 @import url('https://raw.githubusercontent.com/iiPsychoFalls/Yxmeko/refs/heads/main/Yxmeko.theme.css');
 @import url('https://raw.githubusercontent.com/iiPsychoFalls/Yxmeko/refs/heads/main/Yxmeko.theme2.css');
-@import url('making');
+@import url('https://raw.githubusercontent.com/iiPsychoFalls/Yxmeko/refs/heads/main/Compact.ThemeFixes.css');
+@import url('https://raw.githubusercontent.com/iiPsychoFalls/Yxmeko/refs/heads/main/CompactButtons.css');
+@import url('https://raw.githubusercontent.com/iiPsychoFalls/Yxmeko/refs/heads/main/Icon.Hider.css');
 
 /* compactTheme */
 :root {
