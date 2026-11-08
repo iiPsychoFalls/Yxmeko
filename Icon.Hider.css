@@ -1,0 +1,93 @@
+/**
+ * @name Hide Icons Controller
+ * @author Valxra
+ * @version 1.0.0
+ * @description Just random stuff i find that i dont wanna see
+ * @source https://github.com/iiPsychoFalls/Yxmeko
+ * @invite UwUxpYGjsJ
+*/
+
+/* ============================================================================================================================================================ */
+
+/* ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ */
+/* Hide Random Useless Shit */
+/* ________________________ */
+
+/* fixes gap cuz when u hide the msg bar buttons its 1 deep so its not the "right" element without a :has(); */
+.buttons_2x8-Qn {gap: 0;}
+
+/* Jump to First/Last Message */
+/* #message-vc-jump-to-last-user, */
+
+/* 'n' in Voice */
+/* [class*='voiceBar'], */
+
+/* Hide 'Active Now' Voice Channel Footer */
+.refreshVoiceChannelsButton_yOdhm_,
+
+/* Dumbass Cringe Vencord Settings Page JIF */
+.vc-special-image-container,
+
+/* Moderation Requires 2FA Nonsense Bullshit */
+.channelNotice_jOZ0iO,
+/* .container_rLvdfN, */
+
+/* Stolen Account Person Banner Thing */
+/* [class*='safetyBanner'], */
+
+/* Add File: Plus Button in Left Chat Box // Attach Button */
+/* .attachWrapper_7TM4SO, */
+
+/* Top of Server: Animated Banner Img or Whatever */
+.animatedContainer_XH4OpX,
+/* Its Spacer */
+.content_tqapBM>div:first-child[style='height: 84px;'],
+
+/* Thing That Covers The Top JIF Thing? (Required to Click Shit Under it) */
+.animatedBannerHoverLayer_XH4OpX,
+
+/* While Out of View: Red Mention Indicator 'New' */
+.unreadMentionsIndicatorBottom_5dqHTG,
+.unreadMentionsIndicatorTop_5dqHTG,
+
+/* Rev: Emoji Reply to Status */
+.emojiHotrailShareToChannel_R0WNX5,
+
+/* Hovering Gift Chat Bar Icon Football Animation Flair */
+.trinketsDecoration_ejC3ZL,
+.containerHovered_ejC3ZL::before,
+
+/* Dumbass Chat Buttons */
+.container_ejC3ZL,
+div[aria-label='Give a Gift'],
+div[aria-label='Open GIF picker'], /* Its JIF btw */
+.stickerButton_2x8-Qn,
+.emojiButton_2x8-Qn,
+/* .app-launcher-entrypoint, */
+
+/* DM Header Buttons - quests & shop */
+.wrapper_hjotnx,
+/* .channel_zln_tS:has(>.linkButton_zln_tS>.link_zln_tS[href='/shop']), */
+.channel_zln_tS.container_A2Hb-1:nth-of-type(2),
+
+/* Above User Area: Completing Quest Drop Up */
+.wrapper_jdr5pz[data-testid='quest-bar-container'],
+
+/* While Someone Typing: While Scrolled Dn: Bottom Shading */
+.chatTypingGradientAtBottom_8AE1Qq,
+
+/* While Someone Typing: While Scrolled Up: Bottom Shading */
+.chatTypingGradientNotAtBottom_8AE1Qq,
+
+/* In Call: Apps Button */
+/* .buttonContainer_9bvEB0, */
+
+/* Forward and Back Navigation Buttons */
+.backForwardButtons_nS9Yqn,
+
+/* DMs: "Find or Start a Convo" (Literally Opens Ctrl+K lol) */
+.privateChannels_u88IQl>.searchBar_u88IQl
+
+{display: none !important;}
+
+/* ============================================================================================================================================================ */
